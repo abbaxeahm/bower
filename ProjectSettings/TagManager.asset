@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - bullseye
+  - target
+  - bowJoint
+  - bowJointL
+  - arrow
+  - dansk
   layers:
   - Default
   - TransparentFX

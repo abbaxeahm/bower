@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2801734784405425115}
   m_Layer: 0
   m_Name: pricktavla2
-  m_TagString: Untagged
+  m_TagString: target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112,7 +112,7 @@ GameObject:
   - component: {fileID: 7016640991903427100}
   m_Layer: 0
   m_Name: mitten
-  m_TagString: Untagged
+  m_TagString: bullseye
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -160,8 +160,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4874126678125670354, guid: 6ba9c065e774290428bc86ab362aa233, type: 3}
-  - {fileID: -3846018093981099296, guid: 6ba9c065e774290428bc86ab362aa233, type: 3}
+  - {fileID: 2100000, guid: 7ae507217218e254289b4ba8e0586150, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -280,7 +279,7 @@ GameObject:
   - component: {fileID: 533667820761073813}
   m_Layer: 0
   m_Name: mitten2
-  m_TagString: Untagged
+  m_TagString: bullseye
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -328,7 +327,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4874126678125670354, guid: 6ba9c065e774290428bc86ab362aa233, type: 3}
+  - {fileID: 2100000, guid: 7ae507217218e254289b4ba8e0586150, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -492,7 +491,7 @@ GameObject:
   - component: {fileID: 6276021471673444435}
   m_Layer: 0
   m_Name: pricktavla
-  m_TagString: Untagged
+  m_TagString: target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
